@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Aplicada1_p2
+namespace Aplicada1_p2.UI.Consulta
 {
     public partial class Form1 : Form
     {
