@@ -8,10 +8,10 @@ using System.Data.Entity;
 
 namespace Aplicada1_p2.DAL
 {
-  public   class Parcial2Db : DbContext
+  public   class Parcial2Db 
     {
 
-        public Parcial2Db() : base("name=ConStr")
+        public Parcial2Db() 
         {
 
         }
